@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=RentalManager
+comment1.params=
+comment1.target=RentalManager()
+comment2.params=vehicle
+comment2.target=void\ addVehicle(Vehicle)
+comment3.params=customer
+comment3.target=void\ registerCustomer(Customer)
+comment4.params=
+comment4.target=java.util.List\ getVehicles()
+comment5.params=
+comment5.target=java.util.List\ getCustomers()
+comment6.params=customer\ vehicle\ rentalDays
+comment6.target=boolean\ processRental(Customer,\ Vehicle,\ int)
+comment7.params=customer\ vehicle
+comment7.target=boolean\ finalizeReturn(Customer,\ Vehicle)
+numComments=8
